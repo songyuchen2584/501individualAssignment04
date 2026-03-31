@@ -1,4 +1,4 @@
-# Android Compose Assignment
+# 501 Individual Assignment 4
 
 ## Q1 Gyroscope-Controlled Ball Game
 - Uses `Sensor.TYPE_GYROSCOPE`
